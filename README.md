@@ -1,5 +1,5 @@
 ### Hi there, This is Mohammed Ali :wave: 
-### FullStack Developer, Technology Enthusiast, Anime Geek(OTAKU) :relaxed:
+### Backend Engineer, Technology Enthusiast:
 ___
 
 - 🔭 Going deep into Backend Engineering, focusing on the technical details to keep things running smoothly...
